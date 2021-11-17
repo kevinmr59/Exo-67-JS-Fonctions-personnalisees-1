@@ -4,3 +4,8 @@ function newID(elementId, Text) {
     return element;
 }
 newID('p1','nouvotext')
+newID('p2','nouvotext')
+newID('p3','nouvotext')
+newID('p4','nouvotext')
+newID('p5','nouvotext')
+
